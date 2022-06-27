@@ -1,27 +1,34 @@
-# AppPlanetario
+# My Space
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
+My Space es una aplicación web multipropósito para personas con intereses en nuestra
+galaxia. Disponemos de una amplia gama de información e interactividad en donde podrás
+aprender al mismo tiempo que te diviertes.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Funcionalidades
 
-## Code scaffolding
+* Funcionalidad 1 : 
+My Space es un proyecto de código abierto el cual brinda información actualizada y/o
+validada por grandes entidades dedicadas a la investigación interestelar como entre uno de
+ellos la NASA.
+Gran parte de My Space es soportada y dependiente de la empresa francesa le systeme
+solaire el cual nos brinda sus microservicios para poder consumirlos.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+* Funcionalidad 2: 
+My Space otorga esta interactividad entre usuarios mediante un chat en tiempo real en
+donde cada explorador podrá aportar comentarios (existen restricciones por palabras no
+deseadas o mal intencionadas; esto podría causar una inhabilitación de cuenta de manera
+permanente).
+My Space no solo tendrá un chat en tiempo real, si no también contará con un bot el cual
+será manejado mediante comandos y estos brindarán información extra de nuestra galaxia y
+astronomía.
 
-## Build
+* Funcionalidad 3: 
+My Space contará con un apartado en donde te ayudará a conocer más redirigiendo a
+nuestros usuarios a páginas relacionadas con la astronomía. Podrán ser redirigidos de
+manera segura ya que todas nuestras relaciones serán páginas que cumplan con el
+protocolo HTTPS.
+---
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### Contexto: 
+![Contexto](https://user-images.githubusercontent.com/82422683/175855372-47f21d25-8b37-46a1-8a34-2d2d2d852a27.png)
